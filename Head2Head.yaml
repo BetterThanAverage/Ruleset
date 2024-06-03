@@ -293,3 +293,304 @@ Rulesets:
           Side: B
           Objectives:
           - Type: ChapterComplete
+- ID: BTA/Spring24/Ruleset
+  Name: BTA Spring '24 Ruleset
+  Roles:
+    - Practice
+  Chapters:
+  - Name: Forsaken City
+    Map: Celeste/1-ForsakenCity
+    Icon: areas/city
+    Sides:
+    - Name: A-Side
+      Icon: menu/play
+      Categories:
+      - ID: BTA/Spring24/Ruleset/CityA
+        Name: Normal Clear
+        Icon: Head2Head/Categories/Clear
+        Phases:
+        - Map: Celeste/1-ForsakenCity
+          Side: A
+          Objectives:
+          - Type: ChapterComplete
+    - Name: B-Side
+      Icon: menu/remix
+      Categories:
+      - ID: BTA/Spring24/Ruleset/CityB
+        Name: Normal Clear
+        Icon: Head2Head/Categories/Clear
+        Phases:
+        - Map: Celeste/1-ForsakenCity
+          Side: B
+          Objectives:
+          - Type: ChapterComplete
+    - Name: C-Side
+      Icon: menu/rmx2
+      Categories:
+      - ID: BTA/Spring24/Ruleset/CityC
+        Name: Normal Clear
+        Icon: Head2Head/Categories/Clear
+        Phases:
+        - Map: Celeste/1-ForsakenCity
+          Side: C
+          Objectives:
+          - Type: ChapterComplete
+  - Name: Old Site
+    Map: Celeste/2-OldSite
+    Icon: areas/oldsite
+    Sides:
+    - Name: A-Side
+      Icon: menu/play
+      Categories:
+      - ID: BTA/Spring24/Ruleset/SiteA
+        Name: Normal Clear
+        Icon: Head2Head/Categories/Clear
+        Phases:
+        - Map: Celeste/2-OldSite
+          Side: A
+          Objectives:
+          - Type: ChapterComplete
+    - Name: B-Side
+      Icon: menu/remix
+      Categories:
+      - ID: BTA/Spring24/Ruleset/SiteB
+        Name: Normal Clear
+        Icon: Head2Head/Categories/Clear
+        Phases:
+        - Map: Celeste/2-OldSite
+          Side: B
+          Objectives:
+          - Type: ChapterComplete
+    - Name: C-Side
+      Icon: menu/rmx2
+      Categories:
+      - ID: BTA/Spring24/Ruleset/SiteC
+        Name: Normal Clear
+        Icon: Head2Head/Categories/Clear
+        Phases:
+        - Map: Celeste/2-OldSite
+          Side: C
+          Objectives:
+          - Type: ChapterComplete
+  - Name: Celestial Resort
+    Map: Celeste/3-CelestialResort
+    Icon: areas/resort
+    Sides:
+    - Name: A-Side
+      Icon: menu/play
+      Categories:
+      - ID: BTA/Spring24/Ruleset/ResortA
+        Name: Normal Clear
+        Icon: Head2Head/Categories/Clear
+        Phases:
+        - Map: Celeste/3-CelestialResort
+          Side: A
+          Objectives:
+          - Type: ChapterComplete
+    - Name: B-Side
+      Icon: menu/remix
+      Categories:
+      - ID: BTA/Spring24/Ruleset/ResortB
+        Name: Normal Clear
+        Icon: Head2Head/Categories/Clear
+        Phases:
+        - Map: Celeste/3-CelestialResort
+          Side: B
+          Objectives:
+          - Type: ChapterComplete
+    - Name: C-Side
+      Icon: menu/rmx2
+      Categories:
+      - ID: BTA/Spring24/Ruleset/ResortC
+        Name: Normal Clear
+        Icon: Head2Head/Categories/Clear
+        Phases:
+        - Map: Celeste/3-CelestialResort
+          Side: C
+          Objectives:
+          - Type: ChapterComplete
+  - Name: Golden Ridge
+    Map: Celeste/4-GoldenRidge
+    Icon: areas/cliffside
+    Sides:
+    - Name: A-Side
+      Icon: menu/play
+      Categories:
+      - ID: BTA/Spring24/Ruleset/RidgeA
+        Name: Normal Clear
+        Icon: Head2Head/Categories/Clear
+        Phases:
+        - Map: Celeste/4-GoldenRidge
+          Side: A
+          Objectives:
+          - Type: ChapterComplete
+    - Name: B-Side
+      Icon: menu/remix
+      Categories:
+      - ID: BTA/Spring24/Ruleset/RidgeB
+        Name: Normal Clear
+        Icon: Head2Head/Categories/Clear
+        Phases:
+        - Map: Celeste/4-GoldenRidge
+          Side: B
+          Objectives:
+          - Type: ChapterComplete
+    - Name: C-Side
+      Icon: menu/rmx2
+      Categories:
+      - ID: BTA/Spring24/Ruleset/RidgeC
+        Name: Normal Clear
+        Icon: Head2Head/Categories/Clear
+        Phases:
+        - Map: Celeste/4-GoldenRidge
+          Side: C
+          Objectives:
+          - Type: ChapterComplete
+  - Name: Mirror Temple
+    Map: Celeste/5-MirrorTemple
+    Icon: areas/temple
+    Sides:
+    - Name: A-Side
+      Icon: menu/play
+      Categories:
+      - ID: BTA/Spring24/Ruleset/TempleA
+        Name: Normal Clear
+        Icon: Head2Head/Categories/Clear
+        Phases:
+        - Map: Celeste/5-MirrorTemple
+          Side: A
+          Objectives:
+          - Type: ChapterComplete
+    - Name: B-Side
+      Icon: menu/remix
+      Categories:
+      - ID: BTA/Spring24/Ruleset/TempleB
+        Name: Normal Clear
+        Icon: Head2Head/Categories/Clear
+        Phases:
+        - Map: Celeste/5-MirrorTemple
+          Side: B
+          Objectives:
+          - Type: ChapterComplete
+    - Name: C-Side
+      Icon: menu/rmx2
+      Categories:
+      - ID: BTA/Spring24/Ruleset/TempleC
+        Name: Normal Clear
+        Icon: Head2Head/Categories/Clear
+        Phases:
+        - Map: Celeste/5-MirrorTemple
+          Side: C
+          Objectives:
+          - Type: ChapterComplete
+  - Name: Reflection
+    Map: Celeste/6-Reflection
+    Icon: areas/reflection
+    Sides:
+    - Name: A-Side
+      Icon: menu/play
+      Categories:
+      - ID: BTA/Spring24/Ruleset/ReflectionA
+        Name: Normal Clear
+        Icon: Head2Head/Categories/Clear
+        Phases:
+        - Map: Celeste/6-Reflection
+          Side: A
+          Objectives:
+          - Type: ChapterComplete
+    - Name: B-Side
+      Icon: menu/remix
+      Categories:
+      - ID: BTA/Spring24/Ruleset/ReflectionB
+        Name: Normal Clear
+        Icon: Head2Head/Categories/Clear
+        Phases:
+        - Map: Celeste/6-Reflection
+          Side: B
+          Objectives:
+          - Type: ChapterComplete
+    - Name: C-Side
+      Icon: menu/rmx2
+      Categories:
+      - ID: BTA/Spring24/Ruleset/ReflectionC
+        Name: Normal Clear
+        Icon: Head2Head/Categories/Clear
+        Phases:
+        - Map: Celeste/6-Reflection
+          Side: C
+          Objectives:
+          - Type: ChapterComplete
+  - Name: The Summit
+    Map: Celeste/7-Summit
+    Icon: areas/Summit
+    Sides:
+    - Name: A-Side
+      Icon: menu/play
+      Categories:
+      - ID: BTA/Spring24/Ruleset/SummitA
+        Name: Normal Clear
+        Icon: Head2Head/Categories/Clear
+        Phases:
+        - Map: Celeste/7-Summit
+          Side: A
+          Objectives:
+          - Type: ChapterComplete
+    - Name: B-Side
+      Icon: menu/remix
+      Categories:
+      - ID: BTA/Spring24/Ruleset/SummitB
+        Name: Normal Clear
+        Icon: Head2Head/Categories/Clear
+        Phases:
+        - Map: Celeste/7-Summit
+          Side: B
+          Objectives:
+          - Type: ChapterComplete
+    - Name: C-Side
+      Icon: menu/rmx2
+      Categories:
+      - ID: BTA/Spring24/Ruleset/SummitC
+        Name: Normal Clear
+        Icon: Head2Head/Categories/Clear
+        Phases:
+        - Map: Celeste/7-Summit
+          Side: C
+          Objectives:
+          - Type: ChapterComplete
+  - Name: Core
+    Map: Celeste/9-Core
+    Icon: areas/core
+    Sides:
+    - Name: A-Side
+      Icon: menu/play
+      Categories:
+      - ID: BTA/Spring24/Ruleset/CoreA
+        Name: Normal Clear
+        Icon: Head2Head/Categories/Clear
+        Phases:
+        - Map: Celeste/9-Core
+          Side: A
+          Objectives:
+          - Type: ChapterComplete
+    - Name: B-Side
+      Icon: menu/remix
+      Categories:
+      - ID: BTA/Spring24/Ruleset/CoreB
+        Name: Normal Clear
+        Icon: Head2Head/Categories/Clear
+        Phases:
+        - Map: Celeste/9-Core
+          Side: B
+          Objectives:
+          - Type: ChapterComplete
+    - Name: C-Side
+      Icon: menu/rmx2
+      Categories:
+      - ID: BTA/Spring24/Ruleset/CoreC
+        Name: Normal Clear
+        Icon: Head2Head/Categories/Clear
+        Phases:
+        - Map: Celeste/9-Core
+          Side: C
+          Objectives:
+          - Type: ChapterComplete
